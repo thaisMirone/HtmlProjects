@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Thais' Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#first-recipe">Banana Bread</a></li>
+        </ol>
+        
+        <h2 id="first-recipe">Banana Bread</h2>
+        
+        <ul>
+            <li>Time: 70min</li>
+            <li>Serves: 8-10 servings</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                
+            </thead>
+            <tbody>
+                <td>Banana</td>
+                <td>3</td>
+            </tbody>
+        </table>
+        <tbody>
+                <td>Butter</td>
+                <td>4 tbps</td>
+                
+            </tbody>
+        
+        <p><strong>Step 1:</strong> Preheat the oven and prepare the pan.<br>
+        <strong>Step 2:</strong> Mash the bananas and add the butter.<br>
+        <strong>Step 3:</strong> Mix in the remaining ingredients.<br>
+        <strong>Step 4:</strong> Bake the bread. </p>
+        
+    <p><em>Source: <a href="https://www.simplyrecipes.com/recipes/banana_bread/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
