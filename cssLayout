@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        
+        h1 {
+            text-align:center;
+            color: rgb(131, 148, 207);
+            font-family: "Lucida Handwriting", cursive;
+            font-weight: bold;
+    
+        }
+        
+        h2{
+            text-align:center;
+            color: rgb(131, 148, 207);
+            text-decoration: underline;
+            
+        }
+        body {
+            background-color:rgb(216, 232, 240);
+            border: 4px dotted rgb(119, 146, 173);
+            padding: 10px;
+            font-family: cursive;
+        }
+        
+        p {
+            font-weight:bold;
+            color: rgb(77, 96, 117);
+            
+            
+        }
+        
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Chá de Bebê</h1>
+        <h2>Baby</h2>
+        
+        <p>Data: 24/04/2023</p>
+       
+     
+        
+    </body>
+</html>
