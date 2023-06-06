@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        <style>
+            h1{
+                color:rgb(189, 19, 189);
+                text-decoration:underline;
+            }
+            body {
+                font-family:"Times New Roman", serif;
+            }
+            h2,h3 {
+                color:rgb(189, 19, 189);
+                font-size:20px;
+            }
+            table, th, td{
+                border: 1px solid;
+                border-collapse:collapse;
+            }
+            table {
+                width: 50%;
+                text-align: center;
+                
+            }
+            th {
+                font-weight:bold;
+                font-style:italic;
+            }
+        </style>
+        <h1>Thais' blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+           <a href="#first-post"> <li>First post!</li></a>
+        </ul>
+        
+        <h2 id="first-post">First post</h2>
+        <h6>Decmber, 15th, 2022</h6>
+        
+        <p>Check out my <strong>Christmas Shopping List</strong></p>
+        
+        <table>
+            <tr>
+            <th>Item</th>
+            <th>Price</th>
+            </tr>
+            
+            <tr>
+                <td>Card</td>
+                <td>1.99</td>
+            </tr>
+            <tr>
+                <td>T-shit</td>
+                <td>20.00</td>
+            </tr>
+            <tr>
+                <td>Motorcycle</td>
+                <td>1000.99</td>
+            </tr>
+            
+        </table>
+        
+        
+    </body>
+</html>
